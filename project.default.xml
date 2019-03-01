@@ -1,0 +1,34 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/Code/eta-init" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="HaskellBuildOptions">
+        <cabalPath>$USER_HOME$/.local/bin/cabal</cabalPath>
+        <stackPath>/usr/local/bin/stack</stackPath>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="ghcModFlags" value="" />
+        <property name="ghcModPath" value="$USER_HOME$/.local/bin/ghc-mod" />
+        <property name="ghcModiFlags" value="legacy-interactive" />
+        <property name="ghcModiPath" value="$USER_HOME$/.local/bin/ghc-mod" />
+        <property name="ghcModiTimeout" value="5000" />
+        <property name="hindentFlags" value="" />
+        <property name="hindentPath" value="$USER_HOME$/.local/bin/hindent" />
+        <property name="hlintFlags" value="" />
+        <property name="hlintPath" value="$USER_HOME$/.local/bin/hlint" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="Haskell Tools" />
+        <property name="stylishHaskellFlags" value="" />
+        <property name="stylishHaskellPath" value="$USER_HOME$/.local/bin/stylish-haskell" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
