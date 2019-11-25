@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaApplicationSettings">
+    <option name="SUGGEST_IMPLICIT_HINTS" value="false" />
+  </component>
+</application>
